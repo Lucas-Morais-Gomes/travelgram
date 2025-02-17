@@ -44,3 +44,11 @@ a:hover {
 .bg-surface-color {
   background-color: var(--surface-color);
 }
+
+#img-profile {
+  width: 176px;
+  height: 176px;
+  flex-shrink: 0;
+  border-radius: 176px;
+  object-fit: cover;
+}
